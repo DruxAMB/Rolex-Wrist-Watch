@@ -4,4 +4,4 @@ Practice HTML and CSS and a little bit of javascript by building a Rolex Wrist-W
 I'm available for internship and Job opportunities 👩‍💻👨‍💻
 
 
-I cloned and confiquired this project from "https://github.com/maliksaqibahmad/watches/"
+I cloned and confiquired this project from "github.com/maliksaqibahmad"
